@@ -4,6 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquen&layout=compact&theme=vue-dark&locale=pt-br&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
+ <div>
+  <h3>Frameworks</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+ </div>
 <div>
   <h3>Linguagens</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
