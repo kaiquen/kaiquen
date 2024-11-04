@@ -1,4 +1,19 @@
 
+# Olá! Sou Kaique Nascente Januário
+
+Sou um apaixonado desenvolvedor full stack. Minha jornada na computação começou cedo, impulsionada por um profundo interesse em tecnologia e computadores. Ao longo do tempo, mergulhei em diversas linguagens de programação, como C, C#, Java e Python, adquirindo um amplo conjunto de habilidades.
+
+Atualmente, estou focado em aprimorar a experiência do usuário e a eficiência dos aplicativos web, utilizando principalmente React.js e Next.js para construir interfaces modernas e funcionalidades robustas.
+
+Aqui estão algumas das principais tecnologias com as quais trabalho:
+
+- **Frameworks:** Next.js e Express
+- **Banco de dados:** PostgreSQL
+- **Estilização:** TailwindCSS
+- **ORM:** TypeORM
+
+Além de meu trabalho técnico, estou cursando bacharelado em Sistemas de Informação, o que demonstra meu compromisso com a aprendizagem contínua e a busca de conhecimento.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquen&layout=compact&theme=vue-dark&locale=pt-br&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
@@ -13,6 +28,8 @@
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
+
 </div>
 
 ### Frameworks & Plataformas
