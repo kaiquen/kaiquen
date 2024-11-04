@@ -31,13 +31,15 @@
 
 ### Ferramentas
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div>
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-5A34F4?style=for-the-badge&logo=insomnia&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/ClickUp-FF9800?style=for-the-badge&logo=clickup&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-006C91?style=for-the-badge&logo=dbeaver&logoColor=white">
+</div>
 
 ## Redes Sociais
 
